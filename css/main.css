@@ -36,7 +36,7 @@
     text-decoration: none;
     font-weight: bold;
     color: #000;
-    font-size: 1.8rem;
+    font-size: 2.3rem;
 }
 
 .right-top {
@@ -52,4 +52,24 @@
     text-decoration: none;
     color: #000;
     font-weight:600;
+}
+.right-bottom {
+display: flex;
+justify-content: end;
+flex-direction: row;
+margin-top: 15px;
+margin-right: 50px;
+}
+
+.fa {
+    padding: 10px;
+    text-decoration: none ;
+    color: #000 ; 
+}
+
+.search {
+    
+}
+.search a{
+     ;
 }
