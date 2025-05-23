@@ -59,6 +59,7 @@ justify-content: end;
 flex-direction: row;
 margin-top: 15px;
 margin-right: 50px;
+gap: 1em;
 }
 
 .fa {
@@ -68,8 +69,14 @@ margin-right: 50px;
 }
 
 .search {
-    
+    border: 1px solid #eee;
+    line-height: 1.7em;
+    width: 45%;
 }
 .search a{
-     ;
+     
+}
+.search input {
+    border: none;
+    outline: none;
 }

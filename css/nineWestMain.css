@@ -1,0 +1,18 @@
+ main{
+    display: flex;
+    flex-direction: column;
+}
+.first-section{
+    width: 100%;
+}
+.event{
+    width: 100%;
+}
+.cover{
+    width: 100%;
+}
+.dots{}
+.dot-one{
+
+}
+.dot-two{}
